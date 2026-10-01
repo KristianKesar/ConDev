@@ -6,7 +6,7 @@
 // Created on 30/9/2024
 // Modified by: Kristian Kesar 21/09/2026
 // Issues:
-// The barrier is not implemented!
+// The barrier is  implemented!
 // People that have helped me: Filip Raguz, Tomas Radulescu
 // People I have helped: Filip Raguz, Tomas Radulescu
 // license: GPL-3.0
